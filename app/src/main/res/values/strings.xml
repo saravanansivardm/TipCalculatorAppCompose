@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">aqqTipCalculatorApp</string>
+    <string name="total_per_person">Total Per Person</string>
+    <string name="split">Split</string>
+    <string name="tip">Tip</string>
+</resources>
