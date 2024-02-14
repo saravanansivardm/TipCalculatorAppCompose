@@ -43,7 +43,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.tipcalculatorapp.Components.InputField
+import com.example.tipcalculatorapp.components.InputField
 import com.example.tipcalculatorapp.ui.theme.TipCalculatorAppTheme
 import com.example.tipcalculatorapp.util.calculateTipAmount
 import com.example.tipcalculatorapp.util.calculateTotalPerPerson
